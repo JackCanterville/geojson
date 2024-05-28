@@ -1,0 +1,349 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.403964,
+                            -21.303589
+                        ],
+                        [
+                            55.391181,
+                            -21.292626
+                        ],
+                        [
+                            55.322281,
+                            -21.252865
+                        ],
+                        [
+                            55.320573,
+                            -21.249051
+                        ],
+                        [
+                            55.405477,
+                            -21.144987
+                        ],
+                        [
+                            55.416032,
+                            -21.122733
+                        ],
+                        [
+                            55.422569,
+                            -21.116135
+                        ],
+                        [
+                            55.463939,
+                            -21.085744
+                        ],
+                        [
+                            55.464786,
+                            -21.085663
+                        ],
+                        [
+                            55.495227,
+                            -21.111401
+                        ],
+                        [
+                            55.506707,
+                            -21.139712
+                        ],
+                        [
+                            55.52695,
+                            -21.135807
+                        ],
+                        [
+                            55.572707,
+                            -21.133514
+                        ],
+                        [
+                            55.66067,
+                            -21.203529
+                        ],
+                        [
+                            55.654137,
+                            -21.212276
+                        ],
+                        [
+                            55.678813,
+                            -21.239947
+                        ],
+                        [
+                            55.804303,
+                            -21.252015
+                        ],
+                        [
+                            55.700429,
+                            -21.376401
+                        ],
+                        [
+                            55.583167,
+                            -21.372415
+                        ],
+                        [
+                            55.53638,
+                            -21.363328
+                        ],
+                        [
+                            55.403964,
+                            -21.303589
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codes communes": "97401",
+                "noms communes": "Les Avirons",
+                "DEPARTEMENT": "974",
+                "dep_com": "974.Les Avirons",
+                "Département Commune": "La Réunion",
+                "Région Commune": "La Réunion",
+                "Code Région Commune": "4",
+                "Code ML": "97416",
+                "Nom Officiel ML": "974-ML SUD REUNION",
+                "Commune présente sur plusieurs ML": "Non",
+                "Adresse ML": "6 che maxime riviere",
+                "Code Postal ML": "97410",
+                "Ville ML": "Saint-Pierre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.320573,
+                            -21.249051
+                        ],
+                        [
+                            55.271489,
+                            -21.135565
+                        ],
+                        [
+                            55.254206,
+                            -21.109675
+                        ],
+                        [
+                            55.27732,
+                            -20.957835
+                        ],
+                        [
+                            55.330252,
+                            -20.927595
+                        ],
+                        [
+                            55.375672,
+                            -20.89603
+                        ],
+                        [
+                            55.461092,
+                            -21.015025
+                        ],
+                        [
+                            55.464786,
+                            -21.085663
+                        ],
+                        [
+                            55.463939,
+                            -21.085744
+                        ],
+                        [
+                            55.422569,
+                            -21.116135
+                        ],
+                        [
+                            55.416032,
+                            -21.122733
+                        ],
+                        [
+                            55.405477,
+                            -21.144987
+                        ],
+                        [
+                            55.320573,
+                            -21.249051
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codes communes": "97413",
+                "noms communes": "Saint-Leu",
+                "DEPARTEMENT": "974",
+                "dep_com": "974.Saint-Leu",
+                "Département Commune": "La Réunion",
+                "Région Commune": "La Réunion",
+                "Code Région Commune": "4",
+                "Code ML": "97415",
+                "Nom Officiel ML": "974-ML ST PAUL",
+                "Commune présente sur plusieurs ML": "Non",
+                "Adresse ML": "65 r du kovil",
+                "Code Postal ML": "97460",
+                "Ville ML": "Saint-Paul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.678813,
+                            -21.239947
+                        ],
+                        [
+                            55.654137,
+                            -21.212276
+                        ],
+                        [
+                            55.66067,
+                            -21.203529
+                        ],
+                        [
+                            55.572707,
+                            -21.133514
+                        ],
+                        [
+                            55.52695,
+                            -21.135807
+                        ],
+                        [
+                            55.506707,
+                            -21.139712
+                        ],
+                        [
+                            55.495227,
+                            -21.111401
+                        ],
+                        [
+                            55.464786,
+                            -21.085663
+                        ],
+                        [
+                            55.461092,
+                            -21.015025
+                        ],
+                        [
+                            55.468917,
+                            -21.009782
+                        ],
+                        [
+                            55.540688,
+                            -21.004108
+                        ],
+                        [
+                            55.574049,
+                            -20.993458
+                        ],
+                        [
+                            55.62869,
+                            -20.910647
+                        ],
+                        [
+                            55.700488,
+                            -20.978642
+                        ],
+                        [
+                            55.700909,
+                            -21.004898
+                        ],
+                        [
+                            55.767249,
+                            -21.103683
+                        ],
+                        [
+                            55.804303,
+                            -21.252015
+                        ],
+                        [
+                            55.678813,
+                            -21.239947
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codes communes": "97419",
+                "noms communes": "Sainte-Rose",
+                "DEPARTEMENT": "974",
+                "dep_com": "974.Sainte-Rose",
+                "Département Commune": "La Réunion",
+                "Région Commune": "La Réunion",
+                "Code Région Commune": "4",
+                "Code ML": "97410",
+                "Nom Officiel ML": "974-ML ST BENOIT",
+                "Commune présente sur plusieurs ML": "Non",
+                "Adresse ML": "25 cite artisanale",
+                "Code Postal ML": "97470",
+                "Ville ML": "Saint-Benoît"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.62869,
+                            -20.910647
+                        ],
+                        [
+                            55.574049,
+                            -20.993458
+                        ],
+                        [
+                            55.540688,
+                            -21.004108
+                        ],
+                        [
+                            55.468917,
+                            -21.009782
+                        ],
+                        [
+                            55.461092,
+                            -21.015025
+                        ],
+                        [
+                            55.375672,
+                            -20.89603
+                        ],
+                        [
+                            55.502074,
+                            -20.882319
+                        ],
+                        [
+                            55.57526,
+                            -20.894672
+                        ],
+                        [
+                            55.62869,
+                            -20.910647
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "codes communes": "97418",
+                "noms communes": "Sainte-Marie",
+                "DEPARTEMENT": "974",
+                "dep_com": "974.Sainte-Marie",
+                "Département Commune": "La Réunion",
+                "Région Commune": "La Réunion",
+                "Code Région Commune": "4",
+                "Code ML": "97411",
+                "Nom Officiel ML": "974-ML ST DENIS",
+                "Commune présente sur plusieurs ML": "Non",
+                "Adresse ML": "19 rte de moufia",
+                "Code Postal ML": "97490",
+                "Ville ML": "Saint-Denis"
+            }
+        }
+    ]
+}
